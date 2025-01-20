@@ -1,0 +1,54 @@
+[
+	{
+		"correct_answers":
+		[
+			"A\nA"
+		],
+		"test": "2\n5\nteamA A accepted\nteamB B rejected\nteamC A accepted\nteamB B accepted\nteamD C accepted\n4\nteamA A rejected\nteamB A accepted\nteamC B accepted\nteamC B accepted\n"
+	},
+	{
+		"correct_answers":
+		[
+			"B"
+		],
+		"test": "1\n4\nteamA A rejected\nteamB A accepted\nteamC B accepted\nteamD B accepted\n"
+	},
+	{
+		"correct_answers":
+		[
+			"A"
+		],
+		"test": "1\n4\nteamA A accepted\nteamB A accepted\nteamC B accepted\nteamD B accepted\n"
+	},
+	{
+		"correct_answers":
+		[
+			"B"
+		],
+		"test": "1\n6\nteamA A accepted\nteamB A rejected\nteamC B accepted\nteamD B accepted\nteamE A rejected\nteamF A accepted\n"
+	},
+	{
+		"correct_answers":
+		[
+			"B"
+		],
+		"test": "1\n6\nteamA A accepted\nteamB A rejected\nteamC B accepted\nteamD B accepted\nteamE A rejected\nteamF A accepted\n"
+	},
+	{
+		"correct_answers":
+		[
+			"B"
+		],
+		"test": "1\n6\nteamA A accepted\nteamB A rejected\nteamC B accepted\nteamD B accepted\nteamE A rejected\nteamF A accepted\n"
+	},
+	{
+		"correct_answers":
+		[
+			"C"
+		],
+		"test": "1\n6\nteamA A accepted\nteamA A rejected\nteamA A accepted\nteamA A accepted\nteamE C accepted\nteamC C accepted\n"
+	},
+	{
+		"test": "1\n6\nteamA C accepted\nteamA C rejected\nteamB C accepted\nteamA C accepted\nteamE A accepted\nteamC A accepted\n"
+	}
+]

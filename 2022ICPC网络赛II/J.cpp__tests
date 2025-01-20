@@ -1,0 +1,83 @@
+[
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "6\n1 1 4 5 5 4\n",
+		"uncorrect_answers":
+		[
+			"Bob"
+		]
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "6\n1 1 4 5 1 4\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "3\n1 2 2\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "4\n3 2 1 1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "1\n1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "2\n2 2\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "2\n2 3\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "3\n1 1 1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Bob"
+		],
+		"test": "3\n1 2 1\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "5\n3 7 8 1 2\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Alice"
+		],
+		"test": "6\n3 7 8 9 1 2\n"
+	}
+]
