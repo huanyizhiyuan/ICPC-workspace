@@ -1,0 +1,55 @@
+[
+	{
+		"correct_answers":
+		[
+			"Yes\nNo"
+		],
+		"test": "2\n4 4\nCLD.\nUDCL\nDCLD\nCLRC\n2 3\nDRC\nCLU\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Yes"
+		],
+		"test": "1\n2 2\nD.\nCL\n"
+	},
+	{
+		"correct_answers":
+		[
+			"No"
+		],
+		"test": "1\n2\n2\n..\n..\n"
+	},
+	{
+		"correct_answers":
+		[
+			"No"
+		],
+		"test": "1\n2 4\nCLD.\nURCL\n"
+	},
+	{
+		"correct_answers":
+		[
+			"No"
+		],
+		"test": "1\n2 4\nDRC.\nCLUL\n"
+	},
+	{
+		"correct_answers":
+		[
+			"Yes"
+		],
+		"test": "1\n1 1\n.\n"
+	},
+	{
+		"correct_answers":
+		[
+			"No"
+		],
+		"test": "1\n2 5\nRCLD.\nRCLCL\n",
+		"uncorrect_answers":
+		[
+			"Yes"
+		]
+	}
+]
